@@ -7,10 +7,41 @@
 	"data":[
 		{
 			"episode":1,
-			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtTuANL1VFFkEGXYfJqgfXla3ZmQLThbemw&usqp=CAU",
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEDscZqYeeM692pr_TfWBHsAvtelUVTwXGw&usqp=CAU",
 			"title":"Mother and Children",
 			"download_link":"https://streamwish.to/f/6wnws0q5xc7o",
 			"string":"https://streamwish.to/e/6wnws0q5xc7o"
+		},
+		{
+			"episode":2,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEDscZqYeeM692pr_TfWBHsAvtelUVTwXGw&usqp=CAU",
+			"title":"Third Option",
+			"download_link":"https://streamwish.to/f/2ut21k02hvhx",
+			"string":"https://streamwish.to/e/2ut21k02hvhx"
+		},{
+			"episode":3,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEDscZqYeeM692pr_TfWBHsAvtelUVTwXGw&usqp=CAU",
+			"title":"Manga Base Drama Series",
+			"download_link":"https://streamwish.to/f/0si787l5vndu",
+			"string":"https://streamwish.to/e/0si787l5vndu"
+		},{
+			"episode":4,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEDscZqYeeM692pr_TfWBHsAvtelUVTwXGw&usqp=CAU",
+			"title":"Actors",
+			"download_link":"https://streamwish.to/f/82n0qo9pdzoz",
+			"string":"https://streamwish.to/e/82n0qo9pdzoz"
+		},{
+			"episode":5,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEDscZqYeeM692pr_TfWBHsAvtelUVTwXGw&usqp=CAU",
+			"title":"Reality Dating Show",
+			"download_link":"https://streamwish.to/f/9iod44lgbhi1",
+			"string":"https://streamwish.to/e/9iod44lgbhi1"
+		},{
+			"episode":6,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEDscZqYeeM692pr_TfWBHsAvtelUVTwXGw&usqp=CAU",
+			"title":"Egosurfing",
+			"download_link":"https://streamwish.to/f/nvsep9qfgwec",
+			"string":"https://streamwish.to/e/nvsep9qfgwec"
 		}
 	]
 }
