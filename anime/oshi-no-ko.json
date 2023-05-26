@@ -1,0 +1,15 @@
+{
+	"pagination":{
+		"has_next_page":"false",
+		"last_page":1,
+		"current_page":1
+	},
+	"data":[
+		{
+			"episode":1,
+			"thumbnail":"",
+			"title":"",
+			"string":""
+		}
+	]
+}
