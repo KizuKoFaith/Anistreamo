@@ -1,1 +1,14 @@
-
+{
+	"pagination":{
+		"hast_next_page":"true",
+		"last_page":5,
+		"current_page":1
+	},
+	"data":[
+		{
+			"title":"",
+			"image_url":"",
+			"mal_id":0
+		}
+	]
+}
