@@ -1,0 +1,82 @@
+{
+	"pagination":{
+		"has_next_page":"false",
+		"last_page":1,
+		"current_page":1
+	},
+	"data":[
+		{
+			"episode":1,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAwJ9o2esWQ-_EmYnqTdZZYctRE1Y_8zBMA&usqp=CAU",
+			"title":"Meet the Angel",
+			"downloas_link":"https://streamwish.to/f/r404x7b7z0vn",
+			"string":"https://streamwish.to/e/r404x7b7z0vn"
+		},{
+			"episode":2,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAwJ9o2esWQ-_EmYnqTdZZYctRE1Y_8zBMA&usqp=CAU",
+			"title":"Dinner with the Angel",
+			"downloas_link":"https://streamwish.to/f/01o3xa8r49pg",
+			"string":"https://streamwish.to/e/01o3xa8r49pg"
+		},{
+			"episode":3,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAwJ9o2esWQ-_EmYnqTdZZYctRE1Y_8zBMA&usqp=CAU",
+			"title":"Reward for the Angel",
+			"download_link":"https://streamwish.to/f/8c4mwyeqicbe",
+			"string":"https://streamwish.to/e/8c4mwyeqicbe"
+		},{
+			"episode":4,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAwJ9o2esWQ-_EmYnqTdZZYctRE1Y_8zBMA&usqp=CAU",
+			"title":"The Angel in the Christmas",
+			"download_link":"https://streamwish.to/f/7s3d2gyfr1cx",
+			"string":"https://streamwish.to/e/7s3d2gyfr1cx"
+		},{
+			"episode":5,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAwJ9o2esWQ-_EmYnqTdZZYctRE1Y_8zBMA&usqp=CAU",
+			"title":"Hatsumode with the Angel",
+			"download_link":"https://streamwish.to/f/w440j6z41nsx",
+			"string":"https://streamwish.to/e/w440j6z41nsx"
+		},{
+			"episode":6,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAwJ9o2esWQ-_EmYnqTdZZYctRE1Y_8zBMA&usqp=CAU",
+			"title":"A Gift from the Angel",
+			"download_link":"https://streamwish.to/f/2gyuozfkvgda",
+			"string":"https://streamwish.to/e/2gyuozfkvgda"
+		},{
+			"episode":7,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAwJ9o2esWQ-_EmYnqTdZZYctRE1Y_8zBMA&usqp=CAU",
+			"title":"A Promise with the Angel",
+			"download_link":"https://streamwish.to/f/bo4rh1i6vofg",
+			"string":"https://streamwish.to/e/bo4rh1i6vofg"
+		},{
+			"episode":8,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAwJ9o2esWQ-_EmYnqTdZZYctRE1Y_8zBMA&usqp=CAU",
+			"title":"The Angel in the New Term",
+			"download_link":"https://streamwish.to/f/q3md2ddrrjvd",
+			"string":"https://streamwish.to/e/q3md2ddrrjvd"
+		},{
+			"episode":9,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAwJ9o2esWQ-_EmYnqTdZZYctRE1Y_8zBMA&usqp=CAU",
+			"title":"Going Out with the Angel",
+			"download_link":"https://streamwish.to/f/piljuk4ft1iv",
+			"string":"https://streamwish.to/e/piljuk4ft1iv"
+		},{
+			"episode":10,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAwJ9o2esWQ-_EmYnqTdZZYctRE1Y_8zBMA&usqp=CAU",
+			"title":"The Angel in the Dream",
+			"download_link":"https://streamwish.to/f/8icryq1uhas5",
+			"string":"https://streamwish.to/e/8icryq1uhas5"
+		},{
+			"episode":11,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAwJ9o2esWQ-_EmYnqTdZZYctRE1Y_8zBMA&usqp=CAU",
+			"title":"The Angel Next Door Spoils Me Rotten",
+			"download_link":"https://streamwish.to/f/6bcbcn7dtkkz",
+			"string":"https://streamwish.to/e/6bcbcn7dtkkz"
+		},{
+			"episode":12,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAwJ9o2esWQ-_EmYnqTdZZYctRE1Y_8zBMA&usqp=CAU",
+			"title":"Say Goodbye to My Cowardice",
+			"download_link":"https://streamwish.to/f/dpkqyws1bi8c",
+			"string":"https://streamwish.to/e/dpkqyws1bi8c"
+		}
+	]
+}
