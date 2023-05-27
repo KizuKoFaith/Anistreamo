@@ -1,0 +1,16 @@
+{
+	"pagination":{
+		"has_next_page":"false",
+		"last_page":1,
+		"current_page":1
+	},
+	"data":[
+		{
+			"episode":1,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc1SFzyvlh8_FARdRdOH9NzSWBRJHWDEm0Jg&usqp=CAU",
+			"title":"Movie 1",
+			"download_link":"4khflj2hqnmk",
+			"string":"4khflj2hqnmk"
+		}
+	]
+}
