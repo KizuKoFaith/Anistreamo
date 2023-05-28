@@ -1,0 +1,16 @@
+{
+	"pagination":{
+		"has_next_page":"false",
+		"last_page":1,
+		"current_page":1
+	},
+	"data":[
+		{
+			"episode":1,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-9qwjb9xmwaiPpDmZHMSsOgTclpvtY0yvw&usqp=CAU",
+			"title":"",
+			"download_link":"obebrqz65x2w",
+			"string":"obebrqz65x2w"
+		}
+	]
+}
