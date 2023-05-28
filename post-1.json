@@ -10,7 +10,7 @@
 			"image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQomtH63GPoyBXVanQ5IKAao8RFAA5DIwdW9w&usqp=CAU",
 			"mal_id":41487,
 			"current_episode":0,
-			"string":"anime/That-Time-I-Got-Reincamrnated-as-a-Slime-Season2-Part2-Page-1.json"
+			"string":"anime/That-Time-I-Got-Reincarnated-as-a-Slime-Season2-Part2-Page-1.json"
 		},
 		{
 			"title":"In Another World with my Smartphone 2nd Season",
@@ -24,40 +24,40 @@
 			"image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7uTAFoNpb6d9YbOzmo-f1utzG6PkjmEWcTA&usqp=CAU",
 			"mal_id":52034,
 			"current_episode":6,
-			"string":"anime/oshi-no-ko-1.json"},
+			"string":"anime/oshi-no-ko-page-1.json"},
 		{
 			"title":"The Reason Why Raeliana Ended up at the Duke's Mansion",
 			"image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQNwhgh2uil-l8NxkQTHUnL8u-csZ0L0Cnw&usqp=CAU",
 			"mal_id":52308,
 			"current_episode":6,
-			"string":"anime/Kanojo_ga_Koushaku-tei_ni_Itta_Riyuu-1.json"
+			"string":"anime/Kanojo_ga_Koushaku-tei_ni_Itta_Riyuu-page-1.json"
 		},
 		{
 			"title":"The Angel Next Door Spoils Me Rotten",
 			"image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl5wBzMEkNzEeotB3-9C5cPb2k6OS_Yxcm4g&usqp=CAU",
 			"current_episode":0,
 			"mal_id":50739,
-			"string":"anime/the-angel-next-door-spoils-me-rotten-1.json"
+			"string":"anime/the-angel-next-door-spoils-me-rotten-page-1.json"
 		},
 		{
 			"title":"Sword Art Online the Movie: Progressive - Scherzo of Deep Night",
 			"image_url":"https://m.media-amazon.com/images/M/MV5BNzA4YWVkMmEtMGEwOS00ZGYxLTljODAtNzk4ZDA1MmQxN2Y5XkEyXkFqcGdeQXVyMTEwMjgyMzIz._V1_FMjpg_UX1000_.jpg",
 			"mal_id":50275,
 			"current_episode":0,
-			"string":"anime/Sword_Art_Online_Progressive_Movie_Kuraki_Yuuyami_no_Scherzo-1.json"
+			"string":"anime/Sword_Art_Online_Progressive_Movie_Kuraki_Yuuyami_no_Scherzo-page-1.json"
 		},
 		{
 			"title":"That Time I Got Reincarnated as a Slime",
 			"image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvkrNm2lX_OV62ZhRHMhKcFUqdKcqjOtS8iw&usqp=CAU",
 			"current_episode":0,
 			"mal_id":37430,
-			"string":"anime/That-Time-I-Got-Reincamrnated-as-a-Slime-1.json"
+			"string":"anime/That-Time-I-Got-Reincarnated-as-a-Slime-page-1.json"
 		},{
 			"title":"That Time I Got Reincarnated As A Slime 2nd Season",
 			"image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7GcT2OLMhS0rPIrdkukbO3hJJqcBkLBiPw&usqp=CAU",
 			"mal_id":39551,
 			"current_episode":0,
-			"string":"anime/That-Time-I-Got-Reincamrnated-as-a-Slime-2nd-Season-1.json"
+			"string":"anime/That-Time-I-Got-Reincarnated-as-a-Slime-2nd-Season-page-1.json"
 		}
 		
 	]
