@@ -6,12 +6,19 @@
 	},
 	"data":[
 		{
+			"title":"In Another World with my Smartphone 2nd Season",
+			"image_url":"https://animecorner.me/wp-content/uploads/2022/07/in-another-world-with-my-smartphone-season-2-key-visual-727x1024.png?ezimgfmt=ng:webp/ngcb23",
+			"mal_id":51632,
+			"current_episode":8,
+			"string":"in-another-world-with-my-smartphone-season-2-page-1.json"
+		},
+		{
 			"title":"Oshi No Ko",
 			"image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7uTAFoNpb6d9YbOzmo-f1utzG6PkjmEWcTA&usqp=CAU",
 			"mal_id":52034,
 			"current_episode":6,
-			"string":"oshi-no-ko-1.json"
-		},{
+			"string":"oshi-no-ko-1.json"},
+		{
 			"title":"The Reason Why Raeliana Ended up at the Duke's Mansion",
 			"image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQNwhgh2uil-l8NxkQTHUnL8u-csZ0L0Cnw&usqp=CAU",
 			"mal_id":52308,
