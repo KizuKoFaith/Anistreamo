@@ -6,6 +6,13 @@
 	},
 	"data":[
 		{
+			"title":"Tonikaku Kawaii 2nd Season",
+			"image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDIeTmJDBVT68apfPk4E7SJj5Yr2OZSOjDig&usqp=CAU",
+			"mal_id":50307,
+			"current_episode":7,
+			"string":"anime/tonikaku-kawaik-2nd-season-Page-1.json"
+		},
+		{
 			"title":"That Time I Got Reincarnated as a Slime Season 2 Part 2",
 			"image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQomtH63GPoyBXVanQ5IKAao8RFAA5DIwdW9w&usqp=CAU",
 			"mal_id":41487,
