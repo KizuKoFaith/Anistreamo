@@ -1,0 +1,52 @@
+{
+	"pagination":{
+		"has_next_page":"false",
+		"last_page":1,
+		"current_page":1
+	},
+	"data":[
+		{
+			"episode":1,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdKGBRJdC5eIfU7v5pPC4jsKltF6sMNtDr6Q&usqp=CAU",
+			"title":"Why Realiana Made a Deal",
+			"download_link":"h3q5fbpyu0rw",
+			"string":"h3q5fbpyu0rw"
+		},{
+			"episode":2,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdKGBRJdC5eIfU7v5pPC4jsKltF6sMNtDr6Q&usqp=CAU",
+			"title":"Why Realiana Made a Contract",
+			"download_link":"5tgilnq8i9qm",
+			"string":"5tgilnq8i9qm"
+		},{
+			"episode":3,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdKGBRJdC5eIfU7v5pPC4jsKltF6sMNtDr6Q&usqp=CAU",
+			"title":"Why Realiana Trained in Domestic Arts",
+			"download_link":"f2b3mvor7lq9",
+			"string":"f2b3mvor7lq9"
+		},{
+			"episode":4,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdKGBRJdC5eIfU7v5pPC4jsKltF6sMNtDr6Q&usqp=CAU",
+			"title":"Why Realiana Took Up The Fight",
+			"download_link":"beqssnt0j0ol",
+			"string":"beqssnt0j0ol"
+		},{
+			"episode":5,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdKGBRJdC5eIfU7v5pPC4jsKltF6sMNtDr6Q&usqp=CAU",
+			"title":"Unknown",
+			"download_link":"6r1w3y3jfteb",
+			"string":"6r1w3y3jfteb"
+		},{
+			"episode":6,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdKGBRJdC5eIfU7v5pPC4jsKltF6sMNtDr6Q&usqp=CAU",
+			"title":"Unknown",
+			"download_link":"8ppo5gii9a4x",
+			"string":"8ppo5gii9a4x"
+		},{
+			"episode":7,
+			"thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdKGBRJdC5eIfU7v5pPC4jsKltF6sMNtDr6Q&usqp=CAU",
+			"title":"Unknown",
+			"download_link":"ml16w0vxesp7",
+			"string":"ml16w0vxesp7"
+		}
+	]
+}
