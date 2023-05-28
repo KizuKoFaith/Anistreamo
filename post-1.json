@@ -47,12 +47,18 @@
 			"string":"anime/Sword_Art_Online_Progressive_Movie_Kuraki_Yuuyami_no_Scherzo-page-1.json"
 		},
 		{
+			"title":"That Time I Got Reincarnated as a Slime: The Movie - Scarlet Bond",
+			"image_url":"https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/6/6a/Guren_no_Kizuna-hen_Promotional_Poster_2.jpg/revision/latest?cb=20220714035153",
+			"current_episode":0,
+			"mal_id":49877,
+			"string":"anime/That-Time-I-Got-Reincarnated-as-a-Slime-The-Movie-Scarlet-Bond-page-1.json"},
+		{
 			"title":"That Time I Got Reincarnated as a Slime",
 			"image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvkrNm2lX_OV62ZhRHMhKcFUqdKcqjOtS8iw&usqp=CAU",
 			"current_episode":0,
 			"mal_id":37430,
-			"string":"anime/That-Time-I-Got-Reincarnated-as-a-Slime-page-1.json"
-		},{
+			"string":"anime/That-Time-I-Got-Reincarnated-as-a-Slime-page-1.json"},
+		{
 			"title":"That Time I Got Reincarnated As A Slime 2nd Season",
 			"image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7GcT2OLMhS0rPIrdkukbO3hJJqcBkLBiPw&usqp=CAU",
 			"mal_id":39551,
